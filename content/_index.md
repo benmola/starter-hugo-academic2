@@ -11,30 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Research
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: ESL Teaching
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: IT
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
-        - name: Languages
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
-        - name: Event Organisation
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
     content:
       title: Experience
