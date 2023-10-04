@@ -24,8 +24,8 @@ social:
   - display:
       header: false
     link: https://www.researchgate.net/profile/Siham-Rouabah
-    icon_pack: fab
-    icon: ResearchGate
+    icon_pack: ai
+    icon: graduation-cap
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/Rouabah-Siham
