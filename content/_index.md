@@ -26,7 +26,7 @@ sections:
         - title: Lecturer of English, , 
           company: Ibn Haldun University
           company_url: 'https://www.ihu.edu.tr/en'
-          company_logo: ihu-navbar-bg
+          company_logo: ''
           location: Istanbul, Turkey
           date_start: '2022-10-22'
           date_end: ''
