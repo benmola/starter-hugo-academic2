@@ -35,13 +35,13 @@ social:
     display:
       header: false
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Ibn Haldun University
+    url: https://www.ihu.edu.tr/en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in  Sociolinguistics
+      institution: University of Essex, UK
+      year: 2020
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
