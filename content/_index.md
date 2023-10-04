@@ -15,7 +15,7 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: Research
           description: 90%
           icon: r-project
           icon_pack: fab
@@ -39,19 +39,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Lecturer of English, , 
+          company: Ibn Haldun University
+          company_url: 'https://www.ihu.edu.tr/en'
+          company_logo: ihu-navbar-bg
+          location: Istanbul, Turkey
+          date_start: '2022-10-22'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: ''
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
