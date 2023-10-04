@@ -1,6 +1,7 @@
 ---
 title: Siham Rouabah
 role: PhD, Sociolinguist, Lecturer of English.
+avatar_filename: rouabah-siham.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -53,4 +54,4 @@ email: ""
 ---
 
 
-Dr Siham Rouabah is a PhD in Sociolinguistics from the University of Essex.  academic journey has honed my expertise in multilingualism, language policies, and sociocultural dynamics. As a lecturer and EFL instructor, I have fostered a passion for language education and empowering learners to embrace linguistic diversity. I take pride in my published works which showcase my commitment to driving meaningful change in language practices. Skilled in SPSS, Nvivo, and fluent in English, Tamazight, Arabic, and French, I thrive in multilingual environments and I advocate for diversity. Beyond academia, I actively volunteer in teaching, mentoring, and organizing academic events. Her
+Welcome to my website am a passionate sociolinguist with a PhD in Sociolinguistics from the University of Essex. My academic journey has honed my expertise in multilingualism, language policies, and sociocultural dynamics. As a lecturer and EFL instructor, I have fostered a passion for language education and empowering learners to embrace linguistic diversity. I take pride in my published works which showcase my commitment to driving meaningful change in language practices. Skilled in SPSS, Nvivo, and fluent in English, Tamazight, Arabic, and French, I thrive in multilingual environments and I advocate for diversity. Beyond academia, I actively volunteer in teaching, mentoring, and organizing academic events. Let's connect and collaborate!
