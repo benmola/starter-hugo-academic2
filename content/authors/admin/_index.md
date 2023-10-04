@@ -28,7 +28,7 @@ social:
     icon: ResearchGate
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/Rouabah-Siham
+    link: https://www.linkedin.com/in/Rouabah-Siham
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
