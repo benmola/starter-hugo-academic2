@@ -31,8 +31,22 @@ sections:
           date_start: '2022-10-22'
           date_end: ''
           description: ''
-     design:
-      columns: '2'
+    - title: Online ESL Instructor
+          company: Various platforms
+          company_url: ''
+          company_logo: ''
+          location: Online
+          date_start: '2021-01-01'
+          date_end: ''
+          description: ''
+       - title: Lecturer of English
+          company: University of Batna2
+          company_url: ''
+          company_logo: ''
+          location: Batna, Algeria
+          date_start: '2021-10-22'
+          date_end: '2022-09-25'
+          description: ''
   - block: collection
     id: posts
     content:
