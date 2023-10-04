@@ -22,7 +22,7 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
+    items:
         - title: Lecturer of English
           company: Ibn Haldun University
           company_url: 'https://www.ihu.edu.tr/en'
@@ -47,7 +47,7 @@ sections:
           date_start: '2021-10-22'
           date_end: '2022-09-25'
           description: ''
-       - title: Research Fellow
+        - title: Research Fellow
           company: University of Essex
           company_url: ''
           company_logo: ''
