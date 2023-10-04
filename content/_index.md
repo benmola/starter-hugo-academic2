@@ -39,14 +39,14 @@ sections:
           date_start: '2021-01-01'
           date_end: ''
           description: ''
-      - title: Lecturer of English
+       - title: Lecturer of English
           company: University of Batna2
           company_url: ''
           company_logo: ''
           location: Batna, Algeria
           date_start: '2021-10-22'
           date_end: '2022-09-25'
-      - title: Research Fellow
+       - title: Research Fellow
           company: University of Essex
           company_url: ''
           company_logo: ''
