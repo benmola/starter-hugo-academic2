@@ -46,6 +46,7 @@ sections:
           location: Batna, Algeria
           date_start: '2021-10-22'
           date_end: '2022-09-25'
+          description: ''
        - title: Research Fellow
           company: University of Essex
           company_url: ''
@@ -53,6 +54,7 @@ sections:
           location: Essex, UK
           date_start: '2021-01-22'
           date_end: '2022-02-25'
+          description: ''
     design:
       columns: '4'
   - block: accomplishments
