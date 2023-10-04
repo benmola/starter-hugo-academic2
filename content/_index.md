@@ -23,7 +23,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Lecturer of English, , 
+        - title: Lecturer of English, 
           company: Ibn Haldun University
           company_url: 'https://www.ihu.edu.tr/en'
           company_logo: ''
@@ -31,14 +31,29 @@ sections:
           date_start: '2022-10-22'
           date_end: ''
           description: ''
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Online ESL Instructor
+          company: Various platforms
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: ''
+          location: Online
+          date_start: '2021-01-01'
+          date_end: ''
+          description: ''
+      - title: Lecturer of English
+          company: University of Batna2
+          company_url: ''
+          company_logo: ''
+          location: Batna, Algeria
+          date_start: '2021-10-22'
+          date_end: '2022-09-25'
+      - title: Research Fellow
+          company: University of Essex
+          company_url: ''
+          company_logo: ''
+          location: Essex, UK
+          date_start: '2021-01-22'
+          date_end: '2022-02-25'
+
     design:
       columns: '2'
   - block: accomplishments
