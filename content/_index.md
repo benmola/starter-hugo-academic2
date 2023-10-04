@@ -31,8 +31,6 @@ sections:
           date_start: '2022-10-22'
           date_end: ''
           description: ''
-     design:
-          columns: '2'
   - block: collection
     id: posts
     content:
