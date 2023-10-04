@@ -19,11 +19,19 @@ sections:
           description: 90%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
+        - name: ESL Teaching
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
+        - name: IT
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
+        - name: Languages
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
+        - name: Event Organisation
           description: 10%
           icon: camera-retro
           icon_pack: fas
