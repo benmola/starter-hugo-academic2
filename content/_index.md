@@ -53,7 +53,6 @@ sections:
           location: Essex, UK
           date_start: '2021-01-22'
           date_end: '2022-02-25'
-
     design:
       columns: '2'
   - block: accomplishments
