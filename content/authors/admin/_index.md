@@ -2,31 +2,33 @@
 title: Siham Rouabah
 role: PhD, Sociolinguist, Lecturer of English.
 avatar_filename: rouabah-siham.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include change in language practices in English,
+  Tamazight, Arabic.  .
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Research
+  - ESL Teaching
+  - Languages.
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/@SihemRo
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/Siham Rouabah
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/Rouabah-Siham
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+    display:
+      header: false
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
