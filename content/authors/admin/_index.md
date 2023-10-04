@@ -18,13 +18,10 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/Siham Rouabah
   - display:
       header: false
     link: https://www.researchgate.net/profile/Siham-Rouabah
-    icon_pack: ai
+    icon_pack: fas
     icon: graduation-cap
   - icon: linkedin
     icon_pack: fab
