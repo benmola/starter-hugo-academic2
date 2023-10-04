@@ -23,7 +23,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Lecturer of English, 
+        - title: Lecturer of English
           company: Ibn Haldun University
           company_url: 'https://www.ihu.edu.tr/en'
           company_logo: ''
