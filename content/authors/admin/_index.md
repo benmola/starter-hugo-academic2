@@ -20,7 +20,7 @@ social:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/Siham Rouabah
+    link: https://scholar.google.com/Siham Rouabah
   - display:
       header: false
     link: https://www.researchgate.net/profile/Siham-Rouabah
