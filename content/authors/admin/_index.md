@@ -1,7 +1,7 @@
 ---
 title: Siham Rouabah
 role: PhD, Sociolinguist, Lecturer of English.
-avatar_filename: rouabah-siham.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include change in language practices in English,
   Tamazight, Arabic.  .
 interests:
