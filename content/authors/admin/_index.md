@@ -39,15 +39,18 @@ organizations:
     url: https://www.ihu.edu.tr/en
 education:
   courses:
+    - course: Cambridge CELTA
+      institution: " Stafford House, London, UK."
+      year: 2022
     - course: PhD in  Sociolinguistics
       institution: University of Essex, UK
       year: 2020
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA. in Applied Linguistics Algeria.
+      institution: University of Batna 1, Algeria
+      year: 2015
+    - course: BA. in English Language and Literature
+      institution: University of Batna 1, Algeria
+      year: 2013
 superuser: true
 status:
   icon: ☕️
