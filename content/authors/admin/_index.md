@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: siham.rouabah@outlook.fr
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/@SihemRo
@@ -21,6 +21,11 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/Siham Rouabah
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Siham-Rouabah
+    icon_pack: fab
+    icon: ResearchGate
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/Rouabah-Siham
