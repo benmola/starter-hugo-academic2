@@ -31,17 +31,8 @@ sections:
           date_start: '2022-10-22'
           date_end: ''
           description: ''
-    - title: Online ESL Instructor
-          company: Various platforms
-          company_url: ''
-          company_logo: ''
-          location: Online
-          date_start: '2021-01-01'
-          date_end: ''
-          description: ''
-       
      design:
-      columns: '2'
+          columns: '2'
   - block: collection
     id: posts
     content:
